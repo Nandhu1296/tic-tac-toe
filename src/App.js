@@ -109,8 +109,8 @@ const App = () => {
               {isCross ? "Cross" : "Circle"} turns
             </h1>
             <Button color="success" block onClick={reloadGame}>
-                Reload the game
-              </Button></div>
+                Reload the gamee
+              </Button></div> 
             
           )}
           <div className="grid">
